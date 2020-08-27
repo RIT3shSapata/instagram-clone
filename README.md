@@ -1,3 +1,5 @@
+link to the app: "https://instagram-clone-ff700.web.app/"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
